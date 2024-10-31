@@ -17,7 +17,7 @@ Ensure you have the following installed:
 Launch the interactive DB-Manager to manage your Docker containers.
 
 ```bash
-'./path-to-bash-file.sh menu'
+'./path-to-file/db-manager.sh menu'
 ```
 
 Or add a command to your e.g., `package.json` 
