@@ -1,4 +1,4 @@
-# Database Management
+# Database (in Docker) Management
 
 This project includes a Docker-based DB-Manager script to simplify the management of multiple PostgreSQL instances for various features or environments.
 
